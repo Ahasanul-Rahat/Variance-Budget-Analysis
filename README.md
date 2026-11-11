@@ -97,5 +97,8 @@ This project demonstrates a **robust financial analysis workflow** using Excel:
 
 <img width="1200" height="800" alt="Screenshot 2026-01-14 231228" src="https://github.com/user-attachments/assets/1d977341-fcfc-425a-a691-f640345fa16f" />
 
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/1db35a44-0952-46b5-b60b-4ab970394565" />
+
+
 
 
